@@ -18,7 +18,7 @@ EOF
 
   s.add_dependency "sprockets", "~> 2.1"
   s.add_dependency "tilt", "~> 1.3"
-  s.add_dependency "execjs", "~> 1.4.0"
+  s.add_dependency "execjs", "~> 2.2.2"
   s.add_dependency "coffee-script", "~> 2.2"
 
   s.authors = ["Vaughn Draughon"]
